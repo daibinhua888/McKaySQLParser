@@ -1,0 +1,6 @@
+C:\Users\McKay\Documents\Visual Studio 2012\Projects\McKaySQLParser\McKaySQLParser\obj\Debug\SelectSQLLexer.cs
+C:\Users\McKay\Documents\Visual Studio 2012\Projects\McKaySQLParser\McKaySQLParser\obj\Debug\SelectSQLParser.cs
+C:\Users\McKay\Documents\Visual Studio 2012\Projects\McKaySQLParser\McKaySQLParser\obj\Debug\SelectSQLListener.cs
+C:\Users\McKay\Documents\Visual Studio 2012\Projects\McKaySQLParser\McKaySQLParser\obj\Debug\SelectSQLBaseListener.cs
+C:\Users\McKay\Documents\Visual Studio 2012\Projects\McKaySQLParser\McKaySQLParser\obj\Debug\SelectSQLVisitor.cs
+C:\Users\McKay\Documents\Visual Studio 2012\Projects\McKaySQLParser\McKaySQLParser\obj\Debug\SelectSQLBaseVisitor.cs
